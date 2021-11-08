@@ -1,0 +1,4 @@
+opening http://autoguard.hovans.com
+Exit by user 
+closed by user http://autoguard.hovans.com under 10 sec
+
